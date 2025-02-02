@@ -15,17 +15,9 @@ This repository contains code for predicting Google stock prices using a Recurre
 - **Evaluation Metrics:** Calculates RMSE (Root Mean Squared Error) and R² Score.
 - **Visualization:** Plots the real vs. predicted stock prices.
 
-## Getting Started
+## Contributing
+Feel free to open issues or submit pull requests for improvements and bug fixes.
 
-### Prerequisites
-
-Make sure you have Python 3.x installed along with the following packages:
-
-- numpy
-- pandas
-- matplotlib
-- scikit-learn
-- keras
-- tensorflow
-
+## License
+This project is open source and available under the MIT License.
 
