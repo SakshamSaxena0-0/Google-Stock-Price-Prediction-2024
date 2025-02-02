@@ -15,6 +15,12 @@ This repository contains code for predicting Google stock prices using a Recurre
 - **Evaluation Metrics:** Calculates RMSE (Root Mean Squared Error) and R² Score.
 - **Visualization:** Plots the real vs. predicted stock prices.
 
+## Training the Model
+Run the model_training.py file to train the CNN model.
+
+## Testing the Model
+Run the model_execution.py file to test the trained model.
+
 ## Contributing
 Feel free to open issues or submit pull requests for improvements and bug fixes.
 
