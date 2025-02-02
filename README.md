@@ -6,3 +6,26 @@ This repository contains code for predicting Google stock prices using a Recurre
 - **`train_model.py`**: Preprocesses training data, builds and trains an LSTM model, and saves the trained model along with the scaler.
 - **`test_model.py`**: Loads the saved model and scaler, processes test data (e.g., 2024 data), makes predictions, and visualizes the results. It also calculates the RMSE and R² score.
 
+
+## Features
+
+- **Data Preprocessing:** Uses MinMax scaling to preprocess the stock price data.
+- **Model Architecture:** Implements a multi-layer LSTM model with dropout regularization.
+- **Model Saving and Loading:** Saves the trained model and scaler for later use.
+- **Evaluation Metrics:** Calculates RMSE (Root Mean Squared Error) and R² Score.
+- **Visualization:** Plots the real vs. predicted stock prices.
+
+## Getting Started
+
+### Prerequisites
+
+Make sure you have Python 3.x installed along with the following packages:
+
+- numpy
+- pandas
+- matplotlib
+- scikit-learn
+- keras
+- tensorflow
+
+
