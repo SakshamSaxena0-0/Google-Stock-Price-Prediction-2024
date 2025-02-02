@@ -9,7 +9,7 @@ This repository contains code for predicting Google stock prices using a Recurre
 
 ## Datasets
 I used yfinance Library to download the stock data from Yahoo Finance.
-<br> I downloaded the training data from the year 2017 - 2023 and the test data from 2024 january. </br>
+<br> I downloaded the training dataset from the year 2017 - 2023 December and the test data from 2024 january. </br>
 You can copy code from **`data_extraction.py`** to download both datasets.
 
 
