@@ -33,3 +33,7 @@ Feel free to open issues or submit pull requests for improvements and bug fixes.
 ## License
 This project is open source and available under the MIT License.
 
+## Disclaimer
+
+The contents of this repository, including all code and data, are provided for educational and research purposes only. This project is not intended to serve as financial advice, investment recommendations, or a basis for making any financial decisions.
+
