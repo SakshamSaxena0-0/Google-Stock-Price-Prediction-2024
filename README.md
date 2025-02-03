@@ -12,6 +12,10 @@ I used yfinance Library to download the stock data from Yahoo Finance.
 <br> I downloaded the training dataset from the year 2017 - 2023 December and the test data from 2024 january. </br>
 You can copy code from **`data_extraction.py`** to download both datasets.
 
+## Output Scores
+Root Mean Squared Error: 1.886727
+<br>R2 Score: 0.4534033</br>
+
 
 ## Features
 
